@@ -1,0 +1,35 @@
+_repo: Church-History-Vol.-3-of-3_37404
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Macpherson, John
+    birthdate: 1847
+    deathdate: 1902
+    gutenberg_agent_id: '38614'
+    url: http://www.gutenberg.org/2009/agents/38614
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kurtz, J. H. (Johann Heinrich)
+    alias: Kurtz, Johann Heinrich
+    birthdate: 1809
+    deathdate: 1890
+    gutenberg_agent_id: '38827'
+    url: http://www.gutenberg.org/2009/agents/38827
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Heinrich_Kurtz
+description: ''
+gutenberg_issued: '2011-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Church history'
+title: Church History, Volume 3 (of 3)
+url: http://www.gutenberg.org/ebooks/37404
